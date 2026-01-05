@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
