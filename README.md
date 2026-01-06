@@ -24,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shamrethaa/coding-practice-leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
